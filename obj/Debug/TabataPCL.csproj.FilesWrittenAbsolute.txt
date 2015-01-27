@@ -1,0 +1,7 @@
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/bin/Debug/TabataPCL.dll.mdb
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/bin/Debug/TabataPCL.dll
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/obj/Debug/TabataPCL.dll
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/obj/Debug/TabataPCL.dll.mdb
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/msoucoup/Documents/Code Mill Marketing/Blog/Code Projects/TabataPCL/bin/Debug/Newtonsoft.Json.dll

@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 using System.Threading;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
 
 namespace TabataPCL
 {
@@ -63,6 +62,8 @@ namespace TabataPCL
 							
 				while (keepOnLooping) {
 					 await Task.Delay (1000);
+						
+				// See GitHub for the rest of the codd!
 
 					if (currentState.Equals ("work")) {
 						_currentWorkSecond -= 1;
